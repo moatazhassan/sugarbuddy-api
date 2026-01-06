@@ -1,0 +1,6 @@
+@sugarbuddyAPI_HostAddress = http://localhost:5264
+
+GET {{sugarbuddyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
