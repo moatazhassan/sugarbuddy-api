@@ -3,5 +3,3 @@ obj/
 .vs/
 *.user
 *.suo
-*.log
-*.vsconfig
