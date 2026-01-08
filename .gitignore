@@ -1,8 +1,7 @@
-.vs/
 bin/
 obj/
-
+.vs/
 *.user
-
-appsettings.Development.json
-appsettings.Production.json
+*.suo
+*.log
+*.vsconfig
